@@ -1,0 +1,9 @@
+requests==2.26.0
+django==2.2.19
+djangorestframework==3.12.4
+django-phonenumber-field[phonenumberslite]
+psycopg2-binary==2.8.6
+drf-yasg==1.20.0
+python-dotenv
+gunicorn
+django-heroku
